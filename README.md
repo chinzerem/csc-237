@@ -1,4 +1,4 @@
-# csc-237
+# CSC 237
 # C++ Programming
 
 The purpose of this repository is to store any projects, labs, or other assignments I have completed in the course, CSC 237, at Bunker Hill Community College during the spring 2021.
